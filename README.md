@@ -10,8 +10,8 @@
 
 ## How to launch locally?
 
-Simply `git clone https://github.com/T-Damer/john-doe-portfolio.git`\
-Then `cd john-doe-portfolio` into folder\
+Simply `git clone https://github.com/T-Damer/cafe-appetite.git`\
+Then `cd cafe-appetite` into folder\
 Launch `index.html`
 
 I personally use vscode `live server` extension, so it runs on `localhost:5500`
