@@ -6,7 +6,8 @@
 
 ## Demo
 
-![Demo](cafe_appetite_demo.png)
+![Demo](site-demo_light.png)
+![Demo](site-demo_dark.png)
 
 ## How to launch locally?
 
